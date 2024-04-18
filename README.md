@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Prax</h2>
+<h2 align="center">Hi 👋! My name is Prax and i am a CSE:AI and Robotics undergratuate in VIT-Chennai</h2>
 
 ###
 
