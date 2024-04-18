@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Prax and i am an undergratuade in CSE with Ai and Robotics.
 
 ###
 
