@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/prakhar gupta" target="blank"><img src="https://img.shields.io/twitter/follow/prakhar gupta?logo=twitter&style=for-the-badge" alt="prakhar gupta" /></a> </p>
 
-- 🌱 I’m currently learning **Langchain and Blockchain basics**
+- 🌱 I’m currently learning **AI**
 
 - 📫 How to reach me **gprakhar860@gmail.com**
 
