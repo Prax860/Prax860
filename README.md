@@ -1,37 +1,113 @@
-<h1 align="center">Hi 👋, I'm Prax860</h1>
-<h3 align="center">A curious mind who is passionate about Artificial Intelligence, robotics and development</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prax860&label=Profile%20views&color=0e75b6&style=flat" alt="prax860" /> </p>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20There!%20I'm%20Prax860&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prax860" alt="prax860" /></a> </p>
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=AI+Engineer+%26+Developer;Building+the+Future+with+AI;Robotics+Enthusiast;Full+Stack+Developer" alt="Typing SVG" /></a>
 
-<p align="left"> <a href="https://twitter.com/prakhar gupta" target="blank"><img src="https://img.shields.io/twitter/follow/prakhar gupta?logo=twitter&style=for-the-badge" alt="prakhar gupta" /></a> </p>
+<br/>
 
-- 🌱 I’m currently learning **AI**
-
-- 📫 How to reach me **gprakhar860@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/prakhar gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prakhar gupta" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/prakhar-gupta-b12886268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/prakhar-gupta-b12886268" height="30" width="40" /></a>
-<a href="https://instagram.com/prakhar_guptaa10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prakhar_guptaa10" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/prax860" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prax860" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prax860" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prax860" height="30" width="40" /></a>
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://twitter.com/prakhar gupta">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/prakhar-gupta-b12886268">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/prakhar_guptaa10">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:gprakhar860@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prax860&show_icons=true&locale=en&layout=compact" alt="prax860" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prax860&show_icons=true&locale=en" alt="prax860" /></p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### 🚀 About Me
+
+```typescript
+const prax860 = {
+    location: "Chennai, Tamil Nadu 🇮🇳",
+    hometown: "Delhi, India",
+    focus: "Building My Own Startup 🚀",
+    interests: [
+        "Artificial Intelligence",
+        "Robotics & Automation",
+        "Full Stack Development"
+    ]
+};
+```
+
+<br clear="both"/>
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,nextjs,tailwind,nodejs&perline=10&theme=dark" alt="skills" /></a>
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=express,git,linux,docker,kubernetes,tensorflow,pytorch,sklearn,opencv,pandas&perline=10&theme=dark" alt="skills" /></a>
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=arduino,raspberrypi,figma,postgres,mongodb,github,vscode,postman&perline=10&theme=dark" alt="skills" /></a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<p>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prax860&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prax860&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&cache_seconds=1800"/>
+</p>
+
+<img src="https://streak-stats.demolab.com/?user=prax860&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
 
 
-###
+<img src="https://github-profile-trophy.vercel.app/?username=prax860&theme=tokyonight&no-frame=false&no-bg=false&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
 
-<br clear="both">
+</div>
 
-<img src="https://raw.githubusercontent.com/Prax860/Prax860/output/snake.svg" alt="Snake animation" />
 
-###
+<div align="center">
+
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prax860/Prax860/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prax860/Prax860/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Prax860/Prax860/output/snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://app.daily.dev/prakhargupta14">
+<img src="https://api.daily.dev/devcards/v2/on5z3EvnPseLt3Ll33Tqf.png?r=tzr&type=wide" width="652" alt="Prakhar Gupta's Dev Card"/>
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+</div>
