@@ -16,7 +16,7 @@
 const prax860 = {
     location  : "Chennai, Tamil Nadu 🇮🇳",
     hometown  : "Delhi, India",
-    focus     : "Building My Own Startup 🚀",
+    focus     : "Building Astercut 🚀",
     interests : ["Artificial Intelligence", "Robotics & Automation", "Full Stack Development"]
 };
 ```
